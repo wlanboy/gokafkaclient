@@ -6,4 +6,5 @@ make install clean build
 
 # run
 ./producer/producer
+
 ./consumer/consumer
